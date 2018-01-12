@@ -1,0 +1,68 @@
+.jumbotron {
+    background-color:  #FDB927;
+    color: white;
+}
+body
+{
+	/*background-color:  #552583;*/
+	font-family: 'Spectral SC', serif;
+}
+.navbar
+{
+		background-color:  #552583;
+
+}
+.navbar li a {
+   color: white;
+ }
+
+.navbar a:hover {
+ color: grey;
+}
+.nav-nav{
+	color: white;
+}
+
+.kobe, .shaq, .showtime
+{
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+}
+.fun, .lakers{
+	color: #FDB927;
+}
+.facts{
+	color: #552583;
+}
+.container h1
+{
+	font-size: 300%;
+}
+.row h3 li
+{
+	text-align: center;
+}
+.showtime
+{
+	margin-bottom: 25px;
+}
+.btn-purple
+{
+	color: #552583;
+}
+
+.btn-gold
+{
+	color: #FDB927;
+}
+.kobe, .shaq h2
+{
+	font-family: 'Spectral SC', serif;
+}
+.jumbotron h1, p 
+{
+	font-family: 'Spectral SC', serif;
+}
